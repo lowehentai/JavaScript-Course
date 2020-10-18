@@ -1,0 +1,26 @@
+.box {
+	box-sizing: border-box;
+	width: 400px;
+	height: 350px;
+	overflow: scroll;
+	margin: 0 auto;
+	margin-top: 50px;
+	padding: 10px;
+}
+
+button {
+	width: 100px;
+	height: 40px;
+	display: block;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+.block {
+	width: 10px;
+	height: 10px;
+	background-color: red;
+	position: fixed;
+	left: 0%;
+	top: 5%;
+}
