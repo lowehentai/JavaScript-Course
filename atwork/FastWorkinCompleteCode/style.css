@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.tns-outer {
+    width: 500px;
+}
+
+#tns1 > .tns-item  {
+    width: 500px!important;
+}
